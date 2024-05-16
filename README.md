@@ -1,5 +1,9 @@
 # Website-CRUD-Penjualan-Buku
 # Projek Praktikum Kampus
+Projek ini bertujuan untuk mengembangkan sebuah situs web CRUD menggunakan PHP murni. Dengan mengimplementasikan PHP natif, proyek ini bertujuan untuk memungkinkan pengguna berinteraksi dengan aplikasi melalui pembuatan, pembacaan, pembaruan, dan penghapusan data buku. Ini akan menjadi platform yang berguna untuk mengelola penjualan buku secara efisien, memungkinkan pengguna untuk melihat, menambah, memperbarui, dan menghapus entri buku sesuai kebutuhan.
+
+
+
 ![image](https://github.com/md-lukman/Website-CRUD-Penjualan-Buku/assets/129524518/d421ee6a-5cb7-4698-ba31-79631e96367d)
 ![image](https://github.com/md-lukman/Website-CRUD-Penjualan-Buku/assets/129524518/ac71459d-843b-45b3-80e3-34976e5d2b80)
 ![image](https://github.com/md-lukman/Website-CRUD-Penjualan-Buku/assets/129524518/6ca11255-69dc-4192-acda-c320e0bcac95)
